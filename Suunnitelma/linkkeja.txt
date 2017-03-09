@@ -1,0 +1,22 @@
+Saving, Fonts, text input:
+    http://zetcode.com/gui/pyqt5/dialogs/ 
+    
+Drawing:
+    http://zetcode.com/gui/pyqt5/dragdrop/
+    http://zetcode.com/gui/pyqt5/painting/
+    
+    http://pyqt.sourceforge.net/Docs/PyQt5/index.html
+    http://pyqt.sourceforge.net/Docs/PyQt4/qgridlayout.html
+    
+    https://www.daniweb.com/programming/software-development/code/441810/draw-circles-pysidepyqt
+    http://zetcode.com/gui/pyqt5/painting/
+    http://www.digitalfanatics.org/projects/qt_tutorial/chapter12.html
+    http://www.tutorialspoint.com/pyqt/pyqt_quick_guide.htm
+    http://pyqt.sourceforge.net/Docs/PyQt4/qpushbutton.html
+    http://pyqt.sourceforge.net/Docs/PyQt4/qpaintevent.html
+    http://zetcode.com/gui/pyqt5/firstprograms/
+    http://pyqt.sourceforge.net/Docs/PyQt4/qpainter.html
+    http://codeprogress.com/python/libraries/pyqt/showPyQTExample.php?index=373&key=PyQTQMainWindowDetectMouseMoveEvent
+    
+SPLITTER:
+    http://pyqt.sourceforge.net/Docs/PyQt4/qsplitter.html
